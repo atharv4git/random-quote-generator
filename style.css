@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Sono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+    background-color:antiquewhite;
+    font-family: 'Playfair Display', serif;
+}
+h1{
+    font-size: 50px;
+}
+#btn1{
+    margin: 0% 20% 0% 20%;
+    padding: 10px;
+    background-color:burlywood;
+    transition: 0.5s;
+}
+#btn1:hover{
+    margin: 0% 20% 0% 20%;
+    padding: 10px;
+    background-color:darkgoldenrod;
+    transition: 0.5s;
+}
+#main{
+    font-family: 'Sono', sans-serif;
+    margin: 10% 20% 0% 20%;
+}
+#by{
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    bottom: 100px;
+}
